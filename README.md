@@ -10,7 +10,7 @@ git submodule add https://github.com/al3rez/ooda-subagents.git .claude
 
 # Option 2: Copy agents
 git clone https://github.com/al3rez/ooda-subagents.git
-cp -r ooda-subagents/agents <your-project>/.claude/
+cp -r ooda-subagents/.claude/agents <your-project>/.claude/
 ```
 
 ## What's OODA?
